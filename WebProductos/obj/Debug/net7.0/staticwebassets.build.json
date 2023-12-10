@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X/3Mm5JMk6aGtCGoC1s5OO2cPk0zlMrkcqXNuNc87lY=",
+  "Hash": "N9DNGd5vsZ+60S+ZkJMpilaAMJ+mvrVjPhRdbsGNwMA=",
   "Source": "WebProductos",
   "BasePath": "_content/WebProductos",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\Evaluacion\\WebProductos\\WebProductos\\wwwroot\\js\\tipoproducto.js",
+      "SourceId": "WebProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITTG_\\S4\\SoftwareDevelopment\\Evaluacion\\WebProductos\\WebProductos\\wwwroot\\",
+      "BasePath": "_content/WebProductos",
+      "RelativePath": "js/tipoproducto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tipoproducto.js"
     },
     {
       "Identity": "D:\\ITTG_\\S4\\SoftwareDevelopment\\Evaluacion\\WebProductos\\WebProductos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

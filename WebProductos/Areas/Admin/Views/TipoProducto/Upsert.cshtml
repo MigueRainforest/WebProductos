@@ -1,0 +1,65 @@
+﻿@model WebProductos.Modelos.TipoProducto
+
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var titulo = "Crear Tipo producto";
+}
+
+<form method="post">
+    <div style="padding-left:15%; padding-right:15%; padding-bottom:inherit.4rem;">
+        <div class="row border-0">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        </div>
+
+        @if(Model.Id !=0)
+        {
+            // Actualizar
+            titulo = "Actualizar";
+            <input type="hidden" asp-for="Id" id="id" />
+        }
+        <div class="col-12 border-bottom p-0">
+            <h2 class="text-primary">@titulo</h2>
+        </div>
+
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label>Tipo de Producto</label>
+                <input type="text" asp-for="Tipo" class="form-control" placeholder="Tipo de Producto" id="tipoproducto" />
+                <span asp-validation-for="Tipo" class="text-danger"></span>
+            </div>
+        </div>         
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label>Descripción</label>
+                <input type="text" asp-for="Descripcion" class="form-control" placeholder="Descripcion" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label>Detalles</label>
+                <input type="text" asp-for="Detalles" class="form-control" placeholder="Agrega Detalles" />
+                <span asp-validation-for="Detalles" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div>
+            @if(Model.Id !=0)
+            {
+                <partial name="_BotonesActualizarRegresar" model="Model.Id" />
+            }
+            else
+            {
+                <partial name="_BotonesCrearRegresar" />
+            }
+        </div>
+
+    </div>
+
+
+</form>
+
+
+
+

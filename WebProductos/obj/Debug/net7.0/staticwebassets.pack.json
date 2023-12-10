@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\ITTG_\\S4\\SoftwareDevelopment\\Evaluacion\\WebProductos\\WebProductos\\wwwroot\\js\\tipoproducto.js",
+      "PackagePath": "staticwebassets\\js\\tipoproducto.js"
+    },
+    {
       "Id": "D:\\ITTG_\\S4\\SoftwareDevelopment\\Evaluacion\\WebProductos\\WebProductos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
