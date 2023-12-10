@@ -1,0 +1,15 @@
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\bin\Debug\net7.0\WebProductos.Modelos.deps.json
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\bin\Debug\net7.0\WebProductos.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\bin\Debug\net7.0\WebProductos.Modelos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\bin\Debug\net7.0\WebProductos.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\bin\Debug\net7.0\WebProductos.Utilidades.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.csproj.AssemblyReference.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.AssemblyInfoInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.AssemblyInfo.cs
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.csproj.CoreCompileInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.csproj.CopyComplete
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\refint\WebProductos.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\WebProductos.Modelos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Modelos\obj\Debug\net7.0\ref\WebProductos.Modelos.dll

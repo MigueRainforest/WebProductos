@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WebProductos.Modelos/1.0.0": {
+        "dependencies": {
+          "WebProductos.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "WebProductos.Modelos.dll": {}
+        }
+      },
+      "WebProductos.Utilidades/1.0.0": {
+        "runtime": {
+          "WebProductos.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebProductos.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebProductos.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

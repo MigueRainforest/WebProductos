@@ -1,0 +1,17 @@
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.AccesoDatos.deps.json
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.AccesoDatos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.AccesoDatos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.Modelos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.Modelos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\bin\Debug\net7.0\WebProductos.Utilidades.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.csproj.AssemblyReference.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.AssemblyInfoInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.AssemblyInfo.cs
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.csproj.CopyComplete
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\refint\WebProductos.AccesoDatos.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\WebProductos.AccesoDatos.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.AccesoDatos\obj\Debug\net7.0\ref\WebProductos.AccesoDatos.dll

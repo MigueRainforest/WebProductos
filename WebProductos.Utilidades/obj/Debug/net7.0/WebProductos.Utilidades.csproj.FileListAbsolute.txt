@@ -1,0 +1,11 @@
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\bin\Debug\net7.0\WebProductos.Utilidades.deps.json
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\bin\Debug\net7.0\WebProductos.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\bin\Debug\net7.0\WebProductos.Utilidades.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\WebProductos.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\WebProductos.Utilidades.AssemblyInfoInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\WebProductos.Utilidades.AssemblyInfo.cs
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\WebProductos.Utilidades.csproj.CoreCompileInputs.cache
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\WebProductos.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\refint\WebProductos.Utilidades.dll
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\WebProductos.Utilidades.pdb
+D:\ITTG_\S4\SoftwareDevelopment\Evaluacion\WebProductos\WebProductos.Utilidades\obj\Debug\net7.0\ref\WebProductos.Utilidades.dll
